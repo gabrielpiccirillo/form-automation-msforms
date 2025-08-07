@@ -1,0 +1,24 @@
+# Ambiente virtual
+venv/
+.venv/
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Configurações do VS Code e outros IDEs
+.vscode/
+*.code-workspace
+
+# Arquivos de log e capturas de tela
+*.log
+erro_formulario_*.png
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivo Excel com dados sensíveis
+BaseRH.xlsx
